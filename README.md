@@ -1,3 +1,6 @@
+Nama : Bintang Rehandika
+Nim  : 2205101028
+
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
 
